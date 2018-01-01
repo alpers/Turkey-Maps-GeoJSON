@@ -4,7 +4,7 @@ Cities of Turkey, Turkish Republic of Northern Cyprus, Cyprus maps with coordina
 
 |||
 | ------------- |:-------------|
-| tr-cities-cyprus-airports.json | Türkiye + KKTC + GKRY + Airports (TODO) |
+| tr-cities-kktc-airports.json | Türkiye + KKTC + Airports (TODO) |
 | tr-cities-cyprus.json | Türkiye + KKTC + GKRY |
 | tr-cities-kktc.json | Türkiye + KKTC |
 | tr-cities.json | Türkiye |
@@ -13,6 +13,6 @@ Cities of Turkey, Turkish Republic of Northern Cyprus, Cyprus maps with coordina
 | Map |
 |:-------------------------:|
 |<img height="400" src="map.png"> |
-[JSON](tr-cities-cyprus-airports.json)
+[JSON](tr-cities-kktc-airports.json)
 
 ***
